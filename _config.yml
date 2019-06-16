@@ -12,7 +12,7 @@ picture: assets/images/profile.png
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: true
+resume: false
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
@@ -33,38 +33,37 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+# facebook: myfacebook
+# twitter: mytwitter
 # google: mygoogle
-# instagram: myinstagram
+instagram: https://www.instagram.com/kwonjae.l/
 # pinterest: mypinterest
-# linkedin: mylinkedin
+linkedin: https://www.linkedin.com/in/kwonjae-lee-213ba3157/
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+github: https://github.com/cookk
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: medium
+# medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+email: kwonjae13@gmail.com
 
 authors:
-    johndoe:
-        name: John Doe
-        bio: A Man who travels the world eating noodles
+    kwonjaelee:
+        name: cook
+        bio: Cook on Software
         external-image: false
         picture: assets/images/profile.jpg
-        twitter: johndoe
-    jamesfoster:
-        name: James Foster
-        bio: A Man who develops software with coffee
-        external-image: false
-        picture: assets/images/james.jpg
-        twitter: jamesfoster
+#     jamesfoster:
+#         name: James Foster
+#         bio: A Man who develops software with coffee
+#         external-image: false
+#         picture: assets/images/james.jpg
+#         twitter: jamesfoster
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
