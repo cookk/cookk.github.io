@@ -1,3 +1,15 @@
+---
+title: "Coding Interview - Linked List"
+layout: post
+date: 2019-12-29 11:11
+headerImage: false
+tag:
+- coding-interview
+category: blog
+author: cook
+description: Linked List
+---
+
 # 연결리스트
 - 연결리스트는 차례로 연결된 노드를 표현하는 자료구조
 - 단방향 연결리스트에서는 각 노드가 다음 노드를 가리키고,
